@@ -23,7 +23,7 @@ int distanceFromCentre = 0;
 
 int platforms[65][21];
 // platforms are of size 100 by 20, so 64 by 20 can fit on screen at any one time
-// array of either 1 (true: platform there) of 0 (false: no platform there)
+// array of either 1 (true: platform there) of 0 (false: no platform there).
 
 
 // where is the towel? (< 1 values for absent)
