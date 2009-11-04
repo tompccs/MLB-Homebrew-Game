@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+	<language type="en">
+		<string id="0" text="Press 'A' to start bouncing the ball!" />
+		<string id="1" text="Sorry, saving highscores disabled!" />
+		<string id="2" text="This Wii's highscore is %d" />
+		<string id="3" text="Highscore store failed" />
+		<string id="4" text="You scored %d" />
+		<string id="5" text="Game Paused" />
+		<string id="6" text="Press 'A' to continue" />
+	</language>
+	<language type="fr">
+		<string id="0" text="Appuyez sur 'A' pour commencer" />
+		<string id="1" text="Désolé, la sauvegarde des hi scores est désactivé." />
+		<string id="2" text="Le Hi Score de cette Wii : " />
+		<string id="3" text="La sauvegarde du Hi Score a échoué !" />
+		<string id="4" text="Vous avez fait %d" />
+		<string id="5" text="Jeu en pause" />
+		<string id="6" text="Appuyez sur 'A' pour continuer." />
+	</language>
+	<language type="es">
+		<string id="0" text="Pulsa 'A' para empezar a mover la bola!" />
+		<string id="1" text="Lo siento, guardar la puntuación máxima ha sido deshabilitada!" />
+		<string id="2" text="La puntuación máxima de esta Wii es de %d" />
+		<string id="3" text="Guardar la puntuación máxima ha fallado" />
+		<string id="4" text="Has puntuado %d" />
+		<string id="5" text="Juego pausado" />
+		<string id="6" text="Pulsa 'A' para continuar" />
+	</language>
+	<language type="de">
+		<string id="0" text="Drücke 'A', um den Ball hüpfen zu lassen!" />
+		<string id="1" text="Tut uns leid, aber das Speichern der Highscores wurde deaktiviert!" />
+		<string id="2" text="Die Highscore dieser Wii ist: %d" />
+		<string id="3" text="Speichern der Highscore fehlgeschlagen" />
+		<string id="4" text="Deine Punktzahl: %d" />
+		<string id="5" text="Spiel pausiert" />
+		<string id="6" text="Drücke 'A' zum Fortfahren" />
+	</language>
+	<language type="nl">
+		<string id="0" text="Druk op 'A' om de bal te laten stuiteren!" />
+		<string id="1" text="Sorry, opslaan van top scores is uitgeschakeld!" />
+		<string id="2" text="De top score op deze Wii is %d" />
+		<string id="3" text="Het opslaan van de top score is mislukt" />
+		<string id="4" text="Jouw score is %d" />
+		<string id="5" text="Spel gepauzeerd" />
+		<string id="6" text="Druk op 'A' om veder te spelen" />
+	</language>
+	<language type="it">
+		<string id="0" text="Premi 'A' per iniziare." />
+		<string id="1" text="Spiacente, il salvataggio del record è disabilitato." />
+		<string id="2" text="Il record di questo Wii è %d" />
+		<string id="3" text="Salvataggio del record fallitot" />
+		<string id="4" text="Il tuo punteggio è %d" />
+		<string id="5" text="Gioco in pausa" />
+		<string id="6" text="Premi 'A' per continuare" />
+	</language>
+	
+</translations>
