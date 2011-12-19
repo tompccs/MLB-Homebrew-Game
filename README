@@ -1,0 +1,11 @@
+This is a simple platform game called MyLittleBall I wrote for the Nintendo Wii a few years back. I can't even remember if the code in its current state will even compile (never mind run) and I have no intention of maintaining it. But I hope someone finds some use of the code, or perhaps even decides to contribute to it.
+
+To build, you need DevkitPro installed and to run you need a hacked Wii with the Homebrew Channel installed:
+
+http://sourceforge.net/projects/devkitpro/
+http://bootmii.org/install/
+
+After that a simple make command should suffice, and the resulting .elf/.dol (I forget which one is preferred) can be transferred to the Wii via either SD card or via Wiiload (using your WLAN). There are some really great resources which can be found here:
+
+http://wiibrew.org
+
